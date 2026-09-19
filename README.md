@@ -134,9 +134,7 @@ print("CPTs: Rain Tomorrow ->{}".format(probs(df, child='RainTomorrow', parent1=
 ## Output:
 <img width="607" height="685" alt="image" src="https://github.com/user-attachments/assets/bab2adfb-2420-404d-83da-db51d3eadf2c" />
 
-
 <img width="681" height="492" alt="image" src="https://github.com/user-attachments/assets/2de1efbc-ccc0-4553-b4ff-fab7eb126504" />
-
 
 <img width="722" height="492" alt="image" src="https://github.com/user-attachments/assets/270acc47-8b52-4f1b-ae1b-fac16bb3a889" />
 
