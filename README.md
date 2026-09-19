@@ -2,7 +2,7 @@
 <H3> Name: RAGALA SAI VIVEK</H3>
 <H3>Register No: 212223230163 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE:16-05-2026</H3>
+<H3>DATE:24-07-2026</H3>
 ## Aim : To create a bayesian Network for the given dataset in Python
 ## Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController <br/>
